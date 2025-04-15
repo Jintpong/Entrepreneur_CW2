@@ -20,3 +20,6 @@ pie
     "Property Developers" : 31.5
     "Home Buyers/Sellers" : 22.5
     "Others" : 10
+```
+
+### Properties Price Trends in London and Opportunities 
