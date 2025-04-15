@@ -11,3 +11,12 @@ ScuderiaEstate serves three core customer groups within the real estate sector:
 | Home Buyers & Sellers    | To make more informed decisions using AI-driven property valuations and market intelligence.     |
 
 These groups share a need for accurate property valuation and data-driven decision-making. By providing smart analytics and predictive tools, ScuderiaEstate addresses the rising demand for market transparency among local and international buyers, while helping industry professionals overcome the tech adoption gap.
+
+
+```mermaid
+pie
+    title ScuderiaEstate Target Customers
+    "Real Estate Agents" : 36
+    "Property Developers" : 31.5
+    "Home Buyers/Sellers" : 22.5
+    "Others" : 10
