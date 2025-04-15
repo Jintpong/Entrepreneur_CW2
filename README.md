@@ -23,3 +23,31 @@ pie
 ```
 
 ### Properties Price Trends in London and Opportunities 
+Figure 1 demonstrated the annual changes in prime London propert from 2013 to 2023. It clearly showcased the market fluctuations which demonstrated the volatile nature of the London housing market.  Understanding these trends is essential for making informed decisions for real estate agents, property developers, and home buyers or sellers. Real estate agents can time listings and set competitive prices, developers can assess growth areas and market timing, and buyers or sellers can evaluate the best moments to transact. Therefore, ScuderiaEstate addresses the key pain points across these sectors by delivering AI-powered insights and predictive analytics—empowering users to make faster, data-driven decisions based on real-time pricing trends and market dynamics.
+
+
+Figure 1. Changes in property prices in Central London
+
+<img width="814" alt="price_trend" src="https://github.com/user-attachments/assets/e4375606-5d4f-4d11-8a55-7be6e2628fd6" />
+
+
+## Customer Needs and Pain Points
+Real estate professionals and buyers often face challenges such as outdated data, unclear market trends, and time-consuming searches, which may impact their ability to evaluate property, resulting in missed investment opportunities. The flowchart below highlights the key pain points in the industry and how ScuderiaEstate’s AI-driven platform directly addresses them
+
+```mermaid
+flowchart TB
+  A[Customer Pain Points]
+  A --> B1(Time-consuming search)
+  A --> B2(Outdated data)
+  A --> B3(Lack of transparency)
+  A --> B4(Unclear trends)
+  A --> B5(Slow agent response)
+  A --> B6(Missed opportunities)
+
+  B1 --> C1[AI-Powered Matching]
+  B2 --> C2[Real-Time Data Updates]
+  B3 --> C3[Market Risk Visualizations]
+  B4 --> C4[Trend & ROI Forecasting]
+  B5 --> C5[Centralized Platform]
+  B6 --> C6[Predictive Insights]
+```
