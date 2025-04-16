@@ -52,6 +52,12 @@ flowchart TB
   B6 --> C6[Predictive Insights]
 ```
 
+### value proposition
+To address these needs, customers require a service that ensures the credibility and reliability of transaction partners, supported by transparent processes. The service should provide land price information based on clear and trustworthy data sources, making both the data and its origins accessible to users. It must offer transparency not only in pricing but also in matching, helping users verify who they are dealing with and under what conditions. By delivering data-driven insights and maintaining openness throughout the transaction process, such a service would reduce uncertainty and risk, making land buying and selling safer and more efficient. 
+
+## What is the product
+Our service allows users to enter a postcode and receive detailed insights about the surrounding area, including predicted property prices, crime levels, and demographic information. It collects data from various public APIs, such as the UK Land Registry for historical property transactions, the UK Police API for crime statistics, and the Nomis API for population demographics. These datasets are processed by a machine learning model (e.g., XGBoost), which uses features like past sale prices, housing types, and average floor size to estimate future property values. When data is limited, the model intelligently supplements it with broader regional trends. The results are displayed through a user-friendly, map-based interface built with Leaflet.js, providing users—especially foreign investors—with a comprehensive and trustworthy view of local risks and opportunities.
+
 ## ScuderiaEstate Pitch Desk Presentation 
 
 [Click here to view the presentation on Google Slides](https://docs.google.com/presentation/d/11KkG5xj1vkZ622lKEnxMnsd5oPqY6OUPHs0R4FBtbwY/edit?usp=sharing)
