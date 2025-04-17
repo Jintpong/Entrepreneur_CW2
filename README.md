@@ -104,6 +104,32 @@ We are planning to implement the following enhancements:
 These features aim to support even more strategic and personalized decision-making.
 
 
+## What is our unique selling proposition (USP)? 
+While there are several platforms that provide property-related data, most tend to focus narrowly on specific user groups—such as developers or landlords—or suffer from usability and accessibility issues, especially for individual buyers or first-time investors.
+ScuderiaEstate stands out by combining comprehensive data coverage, intuitive design, and affordable pricing—all in one place.
+The following comparison table highlights how our platform distinguishes itself from key competitors in the market.
+
+| Feature / Platform                     | ScuderiaEstate | PropertyData | Nimbus Maps | LandInsight | Lendlord | Home.co.uk |
+|----------------------------------------|----------------|---------------|--------------|--------------|-----------|--------------|
+| **AI-Powered Price Forecasting**       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| **Crime & Risk Data Integration**      |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| **Demographic & Area Insights**        |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| **Historic Price Trends (Graph)**      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟩 Yes       | 🟥 No     | 🟨 Partial    |
+| **Ease of Use + Mobile-Friendly UI**   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Desktop only | 🟩 Good | 🟥 Outdated UI |
+| **Affordable Pricing**                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟥 £45–135   | 🟩 From £12 | 🟩 Free     |
+
+---
+
+### ✅ Summary
+
+ScuderiaEstate delivers the best of all worlds:
+- **Comprehensive insights** that others overlook (crime, demographics, trends)
+- **A clean and intuitive interface** suitable for all users
+- **Smart AI capabilities** that bring clarity and confidence to your property decisions
+- **Accessible pricing** for individuals, not just professionals
+
+
+
 ## Risks and Challenges (yuta editting)
 
 Through interviews with several potential customers, concerns were raised regarding Data Security, Privacy, and Fraud Risk in relation to our business.
