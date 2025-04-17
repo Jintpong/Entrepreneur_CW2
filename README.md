@@ -109,6 +109,9 @@ While there are several platforms that provide property-related data, most tend 
 ScuderiaEstate stands out by combining comprehensive data coverage, intuitive design, and affordable pricing—all in one place.
 The following comparison table highlights how our platform distinguishes itself from key competitors in the market.
 
+![Competitor Analysis1](https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790)
+
+
 | Feature / Platform                     | ScuderiaEstate | P Co. (Investor-Focused) | N Co. (Developer-Focused) | H Co. (General Public) |
 |----------------------------------------|----------------|---------------|--------------|--------------|
 | AI-Powered Price Forecasting       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        |
