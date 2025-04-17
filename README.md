@@ -111,16 +111,13 @@ The following comparison table highlights how our platform distinguishes itself 
 
 | Feature / Platform                     | ScuderiaEstate | PropertyData | Nimbus Maps | LandInsight | Lendlord | Home.co.uk |
 |----------------------------------------|----------------|---------------|--------------|--------------|-----------|--------------|
-| **AI-Powered Price Forecasting**       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| **Crime & Risk Data Integration**      |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| **Demographic & Area Insights**        |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| **Historic Price Trends (Graph)**      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟩 Yes       | 🟥 No     | 🟨 Partial    |
-| **Ease of Use + Mobile-Friendly UI**   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Desktop only | 🟩 Good | 🟥 Outdated UI |
-| **Affordable Pricing**                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟥 £45–135   | 🟩 From £12 | 🟩 Free     |
+| AI-Powered Price Forecasting       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| Crime & Risk Data Integration      |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| Demographic & Area Insights        |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
+| Historic Price Trends (Graph)      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟩 Yes       | 🟥 No     | 🟨 Partial    |
+| Ease of Use + Mobile-Friendly UI   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Desktop only | 🟩 Good | 🟥 Outdated UI |
+| Affordable Pricing                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟥 £45–135   | 🟩 From £12 | 🟩 Free     |
 
----
-
-### ✅ Summary
 
 ScuderiaEstate delivers the best of all worlds:
 - **Comprehensive insights** that others overlook (crime, demographics, trends)
