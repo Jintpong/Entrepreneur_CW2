@@ -53,7 +53,7 @@ flowchart TB
 ```
 
 
-## The Solution: ScuderiaEstate Offers a "Professional Eye"
+## The Solution: ScuderiaEstate Offers a "Professional Eye"(Yuta Editting)
 ScuderiaEstate is an intelligent, data-integrated platform designed to maximize accuracy and speed in real estate decision-making.
 
 ### 1. Smarter Search (Real-Time Data Updates + Centralized Platform)
@@ -61,6 +61,7 @@ With just one postcode input, ScuderiaEstate automatically collects and integrat
 In a single view, users can compare prices, property types, bedroom counts, and floor areas—all in real time. This eliminates the effort and time normally spent navigating across different websites.
 
 *[Scroll-based UI demo here]*
+<img width="900" alt="Screenshot 2025-04-17 at 03 54 39" src="https://github.com/user-attachments/assets/3f81556a-9b58-4207-9dcf-845f5f509b4b" />
 
 
 ### 2. AI-Powered Price Forecasting (Predictive Insights + ROI Forecasting)
@@ -86,6 +87,10 @@ ScuderiaEstate integrates data from multiple public APIs and sources to quantify
 Whether you're an overseas investor or a first-time home buyer, ScuderiaEstate helps you understand an area like a local real estate expert.
 
 *[Crime map and price history graphs]*
+
+<img width="900" alt="Screenshot 2025-04-17 at 03 59 14" src="https://github.com/user-attachments/assets/bebec320-d08e-4587-b750-40aec538856b" />
+
+
 
 ### 4. Transparency
 
