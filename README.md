@@ -109,14 +109,14 @@ While there are several platforms that provide property-related data, most tend 
 ScuderiaEstate stands out by combining comprehensive data coverage, intuitive design, and affordable pricing—all in one place.
 The following comparison table highlights how our platform distinguishes itself from key competitors in the market.
 
-| Feature / Platform                     | ScuderiaEstate | PropertyData | Nimbus Maps | LandInsight | Lendlord | Home.co.uk |
-|----------------------------------------|----------------|---------------|--------------|--------------|-----------|--------------|
-| AI-Powered Price Forecasting       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| Crime & Risk Data Integration      |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| Demographic & Area Insights        |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        | 🟥 No     | 🟥 No        |
-| Historic Price Trends (Graph)      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟩 Yes       | 🟥 No     | 🟨 Partial    |
-| Ease of Use + Mobile-Friendly UI   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Desktop only | 🟩 Good | 🟥 Outdated UI |
-| Affordable Pricing                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟥 £45–135   | 🟩 From £12 | 🟩 Free     |
+| Feature / Platform                     | ScuderiaEstate | P Co. (Investor-Focused) | N Co. (Developer-Focused) | H Co. (General Public) |
+|----------------------------------------|----------------|---------------|--------------|--------------|
+| AI-Powered Price Forecasting       |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        |
+| Crime & Risk Data Integration      |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        |
+| Demographic & Area Insights        |  🟩Yes         | 🟥 No         | 🟥 No        | 🟥 No        |
+| Historic Price Trends (Graph)      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟨 Partial    |
+| Ease of Use + Mobile-Friendly UI   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Outdated UI |
+| Affordable Pricing                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟩 Free     |
 
 
 ScuderiaEstate delivers the best of all worlds:
