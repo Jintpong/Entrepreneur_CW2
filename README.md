@@ -52,11 +52,59 @@ flowchart TB
   B6 --> C6[Predictive Insights]
 ```
 
-### Value proposition
-To address these needs, customers require a service that ensures the credibility and reliability of transaction partners, supported by transparent processes. The service should provide land price information based on clear and trustworthy data sources, making both the data and its origins accessible to users. It must offer transparency not only in pricing but also in matching, helping users verify who they are dealing with and under what conditions. By delivering data-driven insights and maintaining openness throughout the transaction process, such a service would reduce uncertainty and risk, making land buying and selling safer and more efficient. 
 
-## What is the product
-Our service allows users to enter a postcode and receive detailed insights about the surrounding area, including predicted property prices, crime levels, and demographic information. It collects data from various public APIs, such as the UK Land Registry for historical property transactions, the UK Police API for crime statistics, and the Nomis API for population demographics. These datasets are processed by a machine learning model (e.g., XGBoost), which uses features like past sale prices, housing types, and average floor size to estimate future property values. When data is limited, the model intelligently supplements it with broader regional trends. The results are displayed through a user-friendly, map-based interface built with Leaflet.js, providing users—especially foreign investors—with a comprehensive and trustworthy view of local risks and opportunities.
+## The Solution: ScuderiaEstate Offers a "Professional Eye"
+ScuderiaEstate is an intelligent, data-integrated platform designed to maximize accuracy and speed in real estate decision-making.
+
+- AI-driven property valuation provides forward-looking insights
+- Real-time listing aggregation reduces time-consuming manual searches
+- Quantified market risks and demographic data reveal the unseen side of each area
+- Consolidated map-based interface shows everything in one place
+
+In short, any user can make decisions like a professional real estate analyst.
+
+### 1. Smarter Search (Real-Time Data Updates + Centralized Platform)
+With just one postcode input, ScuderiaEstate automatically collects and integrates current listings from multiple real estate platforms, displaying them intuitively on a map.
+In a single view, users can compare prices, property types, bedroom counts, and floor areas—all in real time. This eliminates the effort and time normally spent navigating across different websites.
+
+*[Scroll-based UI demo here]*
+
+
+### 2. AI-Powered Price Forecasting (Predictive Insights + ROI Forecasting)
+ScuderiaEstate features a machine learning–based price prediction engine powered by XGBoost.
+It analyzes public datasets from 1995 to 2024, incorporating factors such as:
+
+- Most recent sale prices and local benchmarks
+- Long-term market trends in the surrounding area
+- Property size, age, and layout
+- Number of sales and property type distribution
+
+With this, the platform offers highly accurate future price projections, enabling smarter investment and timing decisions.
+
+*[Graph showing price forecast]*
+
+### 3. Making the Invisible Visible (Market Risk Visualization + Trend & ROI Forecasting)
+ScuderiaEstate integrates data from multiple public APIs and sources to quantify the “feel” of a neighborhood.
+
+- Crime data: Visualized on the map via UK Police API
+- Price history: Displayed using Land Registry API
+- Demographics: Insights into age groups, education, industry, religion, and language use, based on Nomis datasets
+
+Whether you're an overseas investor or a first-time home buyer, ScuderiaEstate helps you understand an area like a local real estate expert.
+
+*[Crime map and price history graphs]*
+
+### 4. Transparency
+
+### 5.  Future Expansion (AI-Powered Matching and More)
+We are planning to implement the following enhancements:
+
+- Personalized property recommendations based on user preferences
+- ROI simulation tools to estimate potential investment returns
+- Multi-area comparisons and custom alerts
+
+These features aim to support even more strategic and personalized decision-making.
+
 
 ## ScuderiaEstate Pitch Desk Presentation 
 
