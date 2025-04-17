@@ -92,7 +92,7 @@ Whether you're an overseas investor or a first-time home buyer, ScuderiaEstate h
 
 
 
-### 4. Transparency
+### 4. Transparency(To be added)
 
 ### 5.  Future Expansion (AI-Powered Matching and More)
 We are planning to implement the following enhancements:
