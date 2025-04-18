@@ -114,12 +114,14 @@ These features aim to support even more strategic and personalized decision-maki
 
 
 ## What is our unique selling proposition (USP)? 
-While there are several platforms that provide property-related data, most tend to focus narrowly on specific user groups—such as developers or landlords—or suffer from usability and accessibility issues, especially for individual buyers or first-time investors.
-ScuderiaEstate stands out by combining comprehensive data coverage, intuitive design, and affordable pricing—all in one place.
-The following comparison table highlights how our platform distinguishes itself from key competitors in the market.
+While many platforms provide property-related data, they tend to serve only specific user groups—such as investors, developers, or landlords—and often come with complex interfaces, high subscription costs, or outdated designs. This creates barriers for first-time buyers and individual investors who need clarity and confidence when making property decisions. Scuderia Estate sets itself apart by offering a unified, user-friendly platform that brings together the most critical insights in one place. Figure X illustrates how existing platforms are positioned in relation to their target users and common limitations.
 
+FigureX. Competitor Positioning Overview
 ![Competitor Analysis1](https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790)
 
+Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Chart 2.
+
+Chart2. Feature Comparison Across Platforms
 
 | Feature / Platform                     | ScuderiaEstate | P Co. (Investor-Focused) | N Co. (Developer-Focused) | H Co. (General Public) |
 |----------------------------------------|----------------|---------------|--------------|--------------|
@@ -129,13 +131,6 @@ The following comparison table highlights how our platform distinguishes itself 
 | Historic Price Trends (Graph)      |  🟩Yes         | 🟩 Yes        | 🟩 Yes       | 🟨 Partial    |
 | Ease of Use + Mobile-Friendly UI   |  🟩Yes   | 🟥 Complex UI | 🟥 Hard to use | 🟥 Outdated UI |
 | Affordable Pricing                 |  🟩Yes         | 🟩 From £14   | 🟥 From £80  | 🟩 Free     |
-
-
-ScuderiaEstate delivers the best of all worlds:
-- **Comprehensive insights** that others overlook (crime, demographics, trends)
-- **A clean and intuitive interface** suitable for all users
-- **Smart AI capabilities** that bring clarity and confidence to your property decisions
-- **Accessible pricing** for individuals, not just professionals
 
 
 
