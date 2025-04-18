@@ -93,12 +93,10 @@ Whether you're an overseas investor or a first-time home buyer, ScuderiaEstate h
 
 
 ### 4. Built on Trust and Transparency
-Our service ensures transparency and trust through strict customer verification and robust data protection.
-We use a three-step KYC process: starting with customer identification, followed by customer due diligence, and enhanced due diligence for high-risk users.
-This allows only trusted customers to access our platform.
-In addition, personal data is protected with SSL/TLS during transmission and securely encrypted with AES after receipt.
-Regular audits guarantee strict GDPR compliance, ensuring that all user information remains private and secure.
-![security](https://github.com/user-attachments/assets/e2fce034-449f-4202-baa3-2aa2fa569c8e)
+Trust is a top concern for individual buyers and sellers. Scuderia Estate ensures that sensitive information is shared only after strict identity checks, as shown in Figure X.
+Our service ensures transparency and trust through strict customer verification and robust data protection. We use a three step KYC process: starting with customer identification, followed by customer due diligence, and enhanced due diligence for high risk users. This allows only trusted customers to access our platform. In addition, personal data is protected with SSL/TLS during transmission and securely encrypted with AES after receipt. Regular audits guarantee strict GDPR compliance, ensuring that all user information remains private and secure.
+FigureX. Customer Screening and Privacy Protection
+<img width="780" alt="security" src="https://github.com/user-attachments/assets/e2fce034-449f-4202-baa3-2aa2fa569c8e" />
 
 
 
@@ -118,6 +116,8 @@ While many platforms provide property-related data, they tend to serve only spec
 
 FigureX. Competitor Positioning Overview
 ![Competitor Analysis1](https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790)
+<img width="780" alt="Competitor Analysis1" src="https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790" />
+
 
 Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Chart 2.
 
