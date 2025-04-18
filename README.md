@@ -53,7 +53,7 @@ flowchart TB
 ```
 
 
-## The Solution: How will our product meet the needs?
+## How will our product meet the needs?
 ScuderiaEstate is an intelligent, data-integrated platform designed to maximize accuracy and speed in real estate decision-making.
 
 ### 1. Smarter Search (Real-Time Data Updates + Centralized Platform)
@@ -119,9 +119,9 @@ FigureX. Competitor Positioning Overview
 <img width="780" alt="Competitor Analysis1" src="https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790" />
 
 
-Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Chart 2.
+Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Table 2.
 
-Chart2. Feature Comparison Across Platforms
+Table. Feature Comparison Across Platforms
 | Feature               | ScuderiaEstate | PropertyData | Nimbus Maps | LandInsight | Lendlord | Home.co.uk |
 |-----------------------|----------------|---------------|--------------|--------------|-----------|--------------|
 | Price (per month)     | £X (Affordable) | £14+         | £80–150      | £45–135      | Free / £12 | Free         |
