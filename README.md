@@ -92,7 +92,16 @@ Whether you're an overseas investor or a first-time home buyer, ScuderiaEstate h
 
 
 
-### 4. Transparency(To be added)
+### 4. Built on Trust and Transparency
+Our service ensures transparency and trust through strict customer verification and robust data protection.
+We use a three-step KYC process: starting with customer identification, followed by customer due diligence, and enhanced due diligence for high-risk users.
+This allows only trusted customers to access our platform.
+In addition, personal data is protected with SSL/TLS during transmission and securely encrypted with AES after receipt.
+Regular audits guarantee strict GDPR compliance, ensuring that all user information remains private and secure.
+![security](https://github.com/user-attachments/assets/e2fce034-449f-4202-baa3-2aa2fa569c8e)
+
+
+
 
 ### 5.  Future Expansion (AI-Powered Matching and More)
 We are planning to implement the following enhancements:
