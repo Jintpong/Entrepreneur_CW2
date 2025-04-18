@@ -61,6 +61,7 @@ With just one postcode input, ScuderiaEstate automatically collects and integrat
 In a single view, users can compare prices, property types, bedroom counts, and floor areas—all in real time. This eliminates the effort and time normally spent navigating across different websites.
 
 *[Scroll-based UI demo here]*
+
 <img width="500" alt="Screenshot 2025-04-17 at 03 54 39" src="https://github.com/user-attachments/assets/3f81556a-9b58-4207-9dcf-845f5f509b4b" />
 
 
@@ -116,7 +117,7 @@ These features aim to support even more strategic and personalized decision-maki
 While many platforms provide property-related data, they tend to serve only specific user groups—such as investors, developers, or landlords—and often come with complex interfaces, high subscription costs, or outdated designs. This creates barriers for first-time buyers and individual investors who need clarity and confidence when making property decisions. Scuderia Estate sets itself apart by offering a unified, user-friendly platform that brings together the most critical insights in one place. Figure X illustrates how existing platforms are positioned in relation to their target users and common limitations.
 
 FigureX. Competitor Positioning Overview
-<img width="780" alt="Competitor Analysis1" src="https://github.com/user-attachments/assets/fe6c99e5-514c-4bbd-97dd-5c71bca94790" />
+<img width="780" alt="Competitor Analysis1" src="https://github.com/user-attachments/assets/97a5526e-2622-4009-b10c-b715c79d23e5" />
 
 
 Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Table 2.
