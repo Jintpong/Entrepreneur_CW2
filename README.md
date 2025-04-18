@@ -121,7 +121,7 @@ FigureX. Competitor Positioning Overview
 
 Our service integrates AI powered price forecasting, crime and environmental risk data, and demographic insights, which are often overlooked by competitors. Unlike platforms that require technical expertise or large budgets, Scuderia Estate is designed for accessibility, with an intuitive interface and affordable pricing that make it easy for anyone to use, whether on desktop or mobile. In a market where other services feel fragmented or overwhelming, Scuderia Estate delivers clarity, reliability, and smart technology in one seamless experience. This is clearly shown in Table 2.
 
-Table. Feature Comparison Across Platforms
+TableX. Feature Comparison Across Platforms
 | Feature               | ScuderiaEstate | PropertyData | Nimbus Maps | LandInsight | Lendlord | Home.co.uk |
 |-----------------------|----------------|---------------|--------------|--------------|-----------|--------------|
 | Price (per month)     | £X (Affordable) | £14+         | £80–150      | £45–135      | Free / £12 | Free         |
@@ -133,13 +133,18 @@ Table. Feature Comparison Across Platforms
 
 
 
-## Risks and Challenges (yuta editting)
+## Risks and Challenges
+The three most critical risks we have identified are labour shortages, regulatory changes, and cybersecurity threats.
+Each of these risks could have a serious impact on the continuity of our business if left unaddressed.
+As shown in Table 3, we have developed both mitigation and contingency plans to reduce potential damage and ensure service stability.
 
-Through interviews with several potential customers, concerns were raised regarding Data Security, Privacy, and Fraud Risk in relation to our business.
-Our platform targets overseas real estate investors and handles both financial transactions and personal information.
-There is a risk that malicious users could impersonate others, or that our platform could be exploited for money laundering or the movement of funds by criminal organizations.
-Failure to address these risks could result in legal penalties, reputational damage, and even orders to cease business operations.
+Table3. Key Risks and Mitigation Strategies
 
+| Category         | Labour Shortages                                                                 | Regulatory Changes                                                                 | Cybersecurity Risks                                                                     |
+|------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Summary          | We may struggle to hire legal, AI, or security experts due to talent competition. | Policy shifts or legal action could reduce access to foreign investors or AI tools. | Mishandling sensitive data could lead to fraud, legal penalties, or loss of trust.       |
+| Mitigation Plan  | We will offer remote work, stock options, and training to attract and develop talent. | We will hire legal advisors and ensure our AI is explainable and regularly audited. | We will implement strong KYC, monitor transactions with AI, and follow GDPR/AML rules.   |
+| Contingency Plan | We will reassign staff, hire freelancers, or narrow service focus if needed.     | We will adapt our AI or pivot to safer markets like the UK and EU.                 | We will freeze accounts, notify regulators, and use cyber insurance to limit the impact. |
 
 
 
