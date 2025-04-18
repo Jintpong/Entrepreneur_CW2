@@ -133,6 +133,36 @@ TableX. Feature Comparison Across Platforms
 | Investor Oriented     | ✅             | ✅           | ✅           | ✅           | ❌        | ❌           |
 
 
+## Business Execution Summary
+
+```mermaid
+graph TD
+    A[Market Validation & Legal Structure]
+    B[GitHub Repository Setup]
+    C[UX Research & Feedback]
+    D[Internal Team Structure]
+    E[Early User Engagement]
+    F[Advertising Strategy Launched]
+    G[Planned: Raise Minimal Funding]
+    H[Planned: Agree on Board Structure]
+
+    A --> B --> C --> D --> E --> F --> G --> H
+
+    %% class definition
+    classDef done fill:#D9EAD3,stroke:#999,stroke-width:1px,color:#000;
+    classDef current fill:#CFE2F3,stroke:#666,stroke-width:1.5px,color:#000;
+    classDef planned fill:#FFE599,stroke:#999,stroke-width:1px,color:#000;
+
+    %% class application
+    class A,B,C,D,E done;
+    class F current;
+    class G,H planned;
+
+    %% sizing
+    linkStyle default stroke-width:1px;
+
+```
+
 
 ## Risks and Challenges
 The three most critical risks we have identified are labour shortages, regulatory changes, and cybersecurity threats.
