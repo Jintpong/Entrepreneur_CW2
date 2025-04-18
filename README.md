@@ -148,6 +148,8 @@ Table3. Key Risks and Mitigation Strategies
 
 
 
+
+
 ## ScuderiaEstate Pitch Desk Presentation 
 
 [Click here to view the presentation on Google Slides](https://docs.google.com/presentation/d/11KkG5xj1vkZ622lKEnxMnsd5oPqY6OUPHs0R4FBtbwY/edit?usp=sharing)
