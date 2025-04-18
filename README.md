@@ -53,7 +53,7 @@ flowchart TB
 ```
 
 
-## The Solution: ScuderiaEstate Offers a "Professional Eye"(Yuta Editting)
+## The Solution: How will our product meet the needs?
 ScuderiaEstate is an intelligent, data-integrated platform designed to maximize accuracy and speed in real estate decision-making.
 
 ### 1. Smarter Search (Real-Time Data Updates + Centralized Platform)
