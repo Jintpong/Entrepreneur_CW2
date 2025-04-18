@@ -141,23 +141,21 @@ FigureX. Business Plan Execution Timeline
 graph TD
     A[Market Validation & Legal Structure]
     B[GitHub Repository Setup]
-    C[UX Research & Feedback]
-    D[Internal Team Structure]
-    E[Early User Engagement]
-    F[Advertising Strategy Launched]
-    G[Planned: Raise Minimal Funding]
+    C[Internal Team Structure]
+    D[Early User Engagement]
+    E[UX Research & Prototyping]
+    F[Advertising Strategy -Instagram, TikTok]
+    G[Planned: Raise Initial Funding]
     H[Planned: Agree on Board Structure]
 
     A --> B --> C --> D --> E --> F --> G --> H
 
     %% class definition
     classDef done fill:#D9EAD3,stroke:#999,stroke-width:1px,color:#000;
-    classDef current fill:#CFE2F3,stroke:#666,stroke-width:1.5px,color:#000;
     classDef planned fill:#FFE599,stroke:#999,stroke-width:1px,color:#000;
 
     %% class application
-    class A,B,C,D,E done;
-    class F current;
+    class A,B,C,D,E,F done;
     class G,H planned;
 
     %% sizing
