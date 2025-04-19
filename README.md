@@ -173,7 +173,8 @@ We plan to secure the minimum necessary funding required for company registratio
 To ensure transparency and sustainability, we will formalise the roles and responsibilities of board members and clarify the shareholding structure in preparation for incorporation.
 
 
-
+### Future Vision
+In addition to these next steps, we are preparing for long-term scalability. Our intellectual property is being secured through trademark registration in both the UK and the US to support brand protection and cross-border expansion. Once ScuderiaEstate reaches a valuation of £50 million, we aim to transition to a Public Limited Company (PLC) and pursue an IPO on the London Stock Exchange. Following this milestone, we plan to expand globally by establishing regional subsidiaries in Europe, the Middle East, and Asia to adapt to local markets while maintaining a unified global brand.
 
 
 ## Risks and Challenges
