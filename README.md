@@ -162,7 +162,7 @@ graph TD
     linkStyle default stroke-width:1px;
 
 ```
-### 1. Achievements to Date
+### Achievements to Date
 Since the launch of our business plan, we have made steady progress across multiple areas. We validated our concept through interviews with potential users and industry professionals, and refined our direction accordingly. Our team structure and roles were clearly defined to ensure smooth collaboration, and development has been managed through a centralised GitHub repository. We also prepared the legal groundwork for registering as a Limited Company, including compliance with GDPR and AML regulations. A functional prototype was developed with AI-driven features, and early feedback helped us improve usability. In addition, we began testing marketing strategies using Instagram and TikTok to explore user engagement and outreach potential.
 
 ### Next Steps
