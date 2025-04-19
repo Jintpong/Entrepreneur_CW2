@@ -162,7 +162,7 @@ graph TD
     linkStyle default stroke-width:1px;
 
 ```
-### Achievements to Date
+### 1. Achievements to Date
 Since the launch of our business plan, we have made steady progress across multiple areas. We validated our concept through interviews with potential users and industry professionals, and refined our direction accordingly. Our team structure and roles were clearly defined to ensure smooth collaboration, and development has been managed through a centralised GitHub repository. We also prepared the legal groundwork for registering as a Limited Company, including compliance with GDPR and AML regulations. A functional prototype was developed with AI-driven features, and early feedback helped us improve usability. In addition, we began testing marketing strategies using Instagram and TikTok to explore user engagement and outreach potential.
 
 ### Next Steps
@@ -171,6 +171,21 @@ We plan to secure the minimum necessary funding required for company registratio
 
 **Agree on Board Structure and Shareholding** : 
 To ensure transparency and sustainability, we will formalise the roles and responsibilities of board members and clarify the shareholding structure in preparation for incorporation.
+
+### Sales & Marketing Execution Plan
+As we move forward, our go-to-market strategy will play a crucial role. The following plan highlights how we intend to acquire, convert, and retain users from 2025 onward.
+
+Tablex. Sales & Marketing Timeline
+
+| Timeline                 | Strategy Category            | Key Activities                                                                                   | Purpose / Expected Outcome                                             |
+|--------------------------|------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **From Mid-April 2025**  | Initial User Acquisition     | - Launch ads on Instagram and TikTok  <br> - Conduct user testing and interviews using prototype | Validate product-market fit (PMF)  <br> Build early brand awareness    |
+| **From Summer 2025**     | Monetization Begins          | - Offer 7-day free trial  <br> - Introduce tiered pricing: Basic, Pro, Enterprise                 | Convert users to paying customers  <br> Establish a revenue base       |
+| **From Autumn 2025**     | Expansion Phase              | - Launch video ads on YouTube and LinkedIn  <br> - Publish SEO blog content                      | Increase web traffic  <br> Build credibility with professionals        |
+| **From 2026 Onward**     | Retention & LTV Optimization | - Email marketing (newsletters, retargeting)  <br> - Enhance community forum and customer support | Improve retention  <br> Boost user satisfaction and loyalty            |
+| **Any Time (Mid/Long-Term)** | Partnerships              | - Partner with real estate agents, mortgage brokers  <br> - Exhibit at property expos and events  | Expand enterprise deals and reach via trusted partners                 |
+| **Any Time (Mid/Long-Term)** | Affiliate & Referral       | - Offer referral rewards  <br> - Collaborate with influencers through affiliate programs          | Boost user acquisition via word-of-mouth  <br> Reduce CPA              |
+
 
 
 ### Future Vision
